@@ -46,8 +46,12 @@ Download the Book Text
 ----------------------
     For your convenience we have provided a bash script to acquire the "Finnegan's Wake" text. However,
     feel free to use any text of your choice, as long you you edit the demo code accordingly.
-
-    To run the script:
+    
+    Before running the script below:
+    - Make sure you are in the `examples/finnegans_wake_demo` folder.
+    - You have activated the nucypher environment.
+    
+    Then run the script: 
 
 .. code::
 
