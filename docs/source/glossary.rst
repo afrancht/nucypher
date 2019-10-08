@@ -81,4 +81,11 @@ Glossary
       *"The Proxy in PRE"* :term:`Character` - the nodes on the NuCypher Network that stand ready to re-encrypt data in exchange for payment in fees and token rewards; they enforce the access policy created by :term:`Alice`.
 
     Worker
+<<<<<<< HEAD
       An account that is actively doing work in the network as an :term:`Ursula` node. A worker is bonded to, and performs work on behalf of, a :term:`Staker`.
+=======
+      An account that is actively doing work in the network as an :term:`Ursula` node - a worker is bonded to, and performs work on behalf of, a :term:`Staker`.
+
+    Treasure Map
+        A list of the :term:`Ursula` nodes that have the fragments of the re-encryption key that Bob needs to ask for the data to be re-encrypted. This is the output when :term:`Alice` grants Bob decryption rights. :term:`Bob` will use the treasure may to get the re-encryption key fragments necessary to allow him/her to re-encrypt that data.
+>>>>>>> b24af037... Add TreasureMap to glossary.
